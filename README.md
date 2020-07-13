@@ -1,4 +1,4 @@
-![Have a great day](https://i.imgur.com/ZeqouNZ.jpg)
+![Have a great day](https://i.imgur.com/PwztqVV.jpg)
 
 <!--
 **AQuaZar/AQuaZar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
