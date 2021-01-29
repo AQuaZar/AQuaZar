@@ -1,6 +1,7 @@
+<!--
 
 <p><img src="https://emoji.gg/assets/emoji/2860_hellothere.gif" alt="general kenobi GIF">
-<!--
+
 **AQuaZar/AQuaZar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Have a great day](https://i.imgur.com/PwztqVV.jpg)
 Here are some ideas to get you started:
